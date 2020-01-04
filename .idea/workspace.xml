@@ -1,14 +1,116 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f4fd508-6d2e-437f-8478-357a9c37dbb1" name="Default Changelist" comment="" />
+    <list default="true" id="8f4fd508-6d2e-437f-8478-357a9c37dbb1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/mango-admin/src/main/java/com/louis/mango/admin/dao/SysUserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_1_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_spring_boot_starter_1_1_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_2_9_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_2_9_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_2_9_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_9_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_9_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_9_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_9_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_20.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_20.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_18.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_13_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_vintage_junit_vintage_engine_5_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_2_0_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_3_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mango-admin/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mango-admin/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mango-admin/src/main/java/com/louis/admin/mango/MangoAdminApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/mango-admin/src/main/java/com/louis/mango/admin/MangoAdminApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mango-admin/src/main/java/com/louis/admin/mango/config/DruidConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mango-admin/src/main/java/com/louis/admin/mango/config/DruidDataSourceProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mango-admin/src/main/java/com/louis/admin/mango/config/MybatisConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mango-admin/src/main/java/com/louis/admin/mango/config/SwaggerConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mango-admin/src/main/java/com/louis/admin/mango/config/WebMvcConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mango-admin/src/main/java/com/louis/admin/mango/controller/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mango-admin/src/main/java/com/louis/admin/mango/controller/SysUserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mango-admin/src/main/java/com/louis/admin/mango/dao/SysUserMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mango-admin/src/main/java/com/louis/admin/mango/model/BaseModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/mango-admin/src/main/java/com/louis/mango/admin/model/BaseModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mango-admin/src/main/java/com/louis/admin/mango/model/SysConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/mango-admin/src/main/java/com/louis/mango/admin/model/SysConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mango-admin/src/main/java/com/louis/admin/mango/model/SysDept.java" beforeDir="false" afterPath="$PROJECT_DIR$/mango-admin/src/main/java/com/louis/mango/admin/model/SysDept.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mango-admin/src/main/java/com/louis/admin/mango/model/SysDict.java" beforeDir="false" afterPath="$PROJECT_DIR$/mango-admin/src/main/java/com/louis/mango/admin/model/SysDict.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mango-admin/src/main/java/com/louis/admin/mango/model/SysLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/mango-admin/src/main/java/com/louis/mango/admin/model/SysLog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mango-admin/src/main/java/com/louis/admin/mango/model/SysLoginLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/mango-admin/src/main/java/com/louis/mango/admin/model/SysLoginLog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mango-admin/src/main/java/com/louis/admin/mango/model/SysMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/mango-admin/src/main/java/com/louis/mango/admin/model/SysMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mango-admin/src/main/java/com/louis/admin/mango/model/SysRole.java" beforeDir="false" afterPath="$PROJECT_DIR$/mango-admin/src/main/java/com/louis/mango/admin/model/SysRole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mango-admin/src/main/java/com/louis/admin/mango/model/SysRoleDept.java" beforeDir="false" afterPath="$PROJECT_DIR$/mango-admin/src/main/java/com/louis/mango/admin/model/SysRoleDept.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mango-admin/src/main/java/com/louis/admin/mango/model/SysRoleMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/mango-admin/src/main/java/com/louis/mango/admin/model/SysRoleMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mango-admin/src/main/java/com/louis/admin/mango/model/SysUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/mango-admin/src/main/java/com/louis/mango/admin/model/SysUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mango-admin/src/main/java/com/louis/admin/mango/model/SysUserRole.java" beforeDir="false" afterPath="$PROJECT_DIR$/mango-admin/src/main/java/com/louis/mango/admin/model/SysUserRole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mango-admin/src/main/java/com/louis/admin/mango/service/SysUserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mango-admin/src/main/java/com/louis/admin/mango/service/impl/SysUserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mango-admin/src/main/java/com/louis/admin/mango/sqlmap/SysUserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mango-admin/src/main/java/com/louis/mango/admin/sqlmap/SysUserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mango-admin/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mango-admin/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mango-admin/src/test/java/com/louis/admin/mango/MangoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/mango-admin/src/test/java/com/louis/mango/admin/MangoApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mango-common/mango-common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mango-common/mango-common.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mango-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mango-common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mango-common/target/mango-common-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mango-common/target/mango-common-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mango-common/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/mango-common/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mango-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/mango-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mango-core/mango-core.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mango-core/mango-core.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mango-core/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mango-core/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mango-core/target/mango-core-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mango-core/target/mango-core-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mango-core/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/mango-core/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mango-core/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/mango-core/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/mango-admin" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -18,9 +120,16 @@
         <option name="userSettingsFile" value="E:\apache-maven-3.5.2\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectId" id="1VuxIYnZJJFuidhZYy50mGA5hSL" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
@@ -28,11 +137,23 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/mango-admin" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mango-common/src/main/java/com/louis/mango/common/utils" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.359375" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\src_jdx\mango-admin\src\main\java\com\louis\mango\admin\config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\src_jdx\mango-common\src\main\java\com\louis\mango\common\utils" />
+      <recent name="E:\src_jdx\mango-admin\src\main\java\com\louis\mango\admin\controller" />
+      <recent name="E:\src_jdx\mango-admin\src\main\java\com\louis\mango\admin\util" />
+      <recent name="E:\src_jdx\mango-admin\src\main\java\com\louis\mango\admin\service\impl" />
+      <recent name="E:\src_jdx\mango-admin\src\main\java\com\louis\mango\admin\service" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -46,7 +167,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.MangoAdminApplication">
+  <component name="RunManager" selected="Spring Boot.MangoAdminApplication (1)">
+    <configuration name="MangoAdminApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mango-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.louis.mango.admin.MangoAdminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MangoAdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="mango-admin" />
       <extension name="coverage">
@@ -77,6 +205,33 @@
     <configuration />
   </component>
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f4fd508-6d2e-437f-8478-357a9c37dbb1" name="Default Changelist" comment="" />
+      <created>1578121912507</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578121912507</updated>
+      <workItem from="1578121920116" duration="6653000" />
+    </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/mango-admin" />
+    </ignored-roots>
   </component>
 </project>

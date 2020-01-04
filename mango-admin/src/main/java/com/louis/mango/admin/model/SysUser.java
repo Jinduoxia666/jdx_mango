@@ -1,4 +1,4 @@
-package com.louis.admin.mango.model;
+package com.louis.mango.admin.model;
 
 import java.util.ArrayList;
 import java.util.List;
