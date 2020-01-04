@@ -6,11 +6,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="mango-core" />
         <module name="mango-admin" />
+        <module name="mango-common" />
+        <module name="mango-pom" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
       <module name="mango-admin" target="1.8" />
+      <module name="mango-common" target="1.8" />
+      <module name="mango-core" target="1.8" />
+      <module name="mango-pom" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

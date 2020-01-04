@@ -97,6 +97,13 @@
             <scope>test</scope>
         </dependency>
 
+        <!--依赖core项目-->
+        <dependency>
+            <groupId>com.louis</groupId>
+            <artifactId>mango-core</artifactId>
+            <version>1.0.0</version>
+        </dependency>
+
     </dependencies>
 
     <build>
