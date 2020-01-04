@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mango-admin/.mvn/.mvn.iml" filepath="$PROJECT_DIR$/mango-admin/.mvn/.mvn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mango-admin/mango-admin.iml" filepath="$PROJECT_DIR$/mango-admin/mango-admin.iml" />
+    </modules>
+  </component>
+</project>
